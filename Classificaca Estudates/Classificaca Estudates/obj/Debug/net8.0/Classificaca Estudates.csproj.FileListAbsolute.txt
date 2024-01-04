@@ -1,0 +1,15 @@
+D:\GIT Projetos\Estudo-C-Sharp\Classificaca Estudates\Classificaca Estudates\bin\Debug\net8.0\Classificaca Estudates.exe
+D:\GIT Projetos\Estudo-C-Sharp\Classificaca Estudates\Classificaca Estudates\bin\Debug\net8.0\Classificaca Estudates.deps.json
+D:\GIT Projetos\Estudo-C-Sharp\Classificaca Estudates\Classificaca Estudates\bin\Debug\net8.0\Classificaca Estudates.runtimeconfig.json
+D:\GIT Projetos\Estudo-C-Sharp\Classificaca Estudates\Classificaca Estudates\bin\Debug\net8.0\Classificaca Estudates.dll
+D:\GIT Projetos\Estudo-C-Sharp\Classificaca Estudates\Classificaca Estudates\bin\Debug\net8.0\Classificaca Estudates.pdb
+D:\GIT Projetos\Estudo-C-Sharp\Classificaca Estudates\Classificaca Estudates\obj\Debug\net8.0\Classificaca Estudates.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT Projetos\Estudo-C-Sharp\Classificaca Estudates\Classificaca Estudates\obj\Debug\net8.0\Classificaca Estudates.AssemblyInfoInputs.cache
+D:\GIT Projetos\Estudo-C-Sharp\Classificaca Estudates\Classificaca Estudates\obj\Debug\net8.0\Classificaca Estudates.AssemblyInfo.cs
+D:\GIT Projetos\Estudo-C-Sharp\Classificaca Estudates\Classificaca Estudates\obj\Debug\net8.0\Classificaca Estudates.csproj.CoreCompileInputs.cache
+D:\GIT Projetos\Estudo-C-Sharp\Classificaca Estudates\Classificaca Estudates\obj\Debug\net8.0\Classificaca Estudates.sourcelink.json
+D:\GIT Projetos\Estudo-C-Sharp\Classificaca Estudates\Classificaca Estudates\obj\Debug\net8.0\Classificaca Estudates.dll
+D:\GIT Projetos\Estudo-C-Sharp\Classificaca Estudates\Classificaca Estudates\obj\Debug\net8.0\refint\Classificaca Estudates.dll
+D:\GIT Projetos\Estudo-C-Sharp\Classificaca Estudates\Classificaca Estudates\obj\Debug\net8.0\Classificaca Estudates.pdb
+D:\GIT Projetos\Estudo-C-Sharp\Classificaca Estudates\Classificaca Estudates\obj\Debug\net8.0\Classificaca Estudates.genruntimeconfig.cache
+D:\GIT Projetos\Estudo-C-Sharp\Classificaca Estudates\Classificaca Estudates\obj\Debug\net8.0\ref\Classificaca Estudates.dll

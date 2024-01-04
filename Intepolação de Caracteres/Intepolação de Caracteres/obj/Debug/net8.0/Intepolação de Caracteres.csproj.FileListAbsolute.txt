@@ -1,0 +1,15 @@
+D:\GIT Projetos\Estudo-C-Sharp\Intepolação de Caracteres\Intepolação de Caracteres\bin\Debug\net8.0\Intepolação de Caracteres.exe
+D:\GIT Projetos\Estudo-C-Sharp\Intepolação de Caracteres\Intepolação de Caracteres\bin\Debug\net8.0\Intepolação de Caracteres.deps.json
+D:\GIT Projetos\Estudo-C-Sharp\Intepolação de Caracteres\Intepolação de Caracteres\bin\Debug\net8.0\Intepolação de Caracteres.runtimeconfig.json
+D:\GIT Projetos\Estudo-C-Sharp\Intepolação de Caracteres\Intepolação de Caracteres\bin\Debug\net8.0\Intepolação de Caracteres.dll
+D:\GIT Projetos\Estudo-C-Sharp\Intepolação de Caracteres\Intepolação de Caracteres\bin\Debug\net8.0\Intepolação de Caracteres.pdb
+D:\GIT Projetos\Estudo-C-Sharp\Intepolação de Caracteres\Intepolação de Caracteres\obj\Debug\net8.0\Intepolação de Caracteres.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT Projetos\Estudo-C-Sharp\Intepolação de Caracteres\Intepolação de Caracteres\obj\Debug\net8.0\Intepolação de Caracteres.AssemblyInfoInputs.cache
+D:\GIT Projetos\Estudo-C-Sharp\Intepolação de Caracteres\Intepolação de Caracteres\obj\Debug\net8.0\Intepolação de Caracteres.AssemblyInfo.cs
+D:\GIT Projetos\Estudo-C-Sharp\Intepolação de Caracteres\Intepolação de Caracteres\obj\Debug\net8.0\Intepolação de Caracteres.csproj.CoreCompileInputs.cache
+D:\GIT Projetos\Estudo-C-Sharp\Intepolação de Caracteres\Intepolação de Caracteres\obj\Debug\net8.0\Intepolação de Caracteres.sourcelink.json
+D:\GIT Projetos\Estudo-C-Sharp\Intepolação de Caracteres\Intepolação de Caracteres\obj\Debug\net8.0\Intepolação de Caracteres.dll
+D:\GIT Projetos\Estudo-C-Sharp\Intepolação de Caracteres\Intepolação de Caracteres\obj\Debug\net8.0\refint\Intepolação de Caracteres.dll
+D:\GIT Projetos\Estudo-C-Sharp\Intepolação de Caracteres\Intepolação de Caracteres\obj\Debug\net8.0\Intepolação de Caracteres.pdb
+D:\GIT Projetos\Estudo-C-Sharp\Intepolação de Caracteres\Intepolação de Caracteres\obj\Debug\net8.0\Intepolação de Caracteres.genruntimeconfig.cache
+D:\GIT Projetos\Estudo-C-Sharp\Intepolação de Caracteres\Intepolação de Caracteres\obj\Debug\net8.0\ref\Intepolação de Caracteres.dll

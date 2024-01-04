@@ -1,0 +1,15 @@
+D:\GIT Projetos\Estudo-C-Sharp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\bin\Debug\net8.0\SimpleCSharpConsoleApp.exe
+D:\GIT Projetos\Estudo-C-Sharp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\bin\Debug\net8.0\SimpleCSharpConsoleApp.deps.json
+D:\GIT Projetos\Estudo-C-Sharp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\bin\Debug\net8.0\SimpleCSharpConsoleApp.runtimeconfig.json
+D:\GIT Projetos\Estudo-C-Sharp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\bin\Debug\net8.0\SimpleCSharpConsoleApp.dll
+D:\GIT Projetos\Estudo-C-Sharp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\bin\Debug\net8.0\SimpleCSharpConsoleApp.pdb
+D:\GIT Projetos\Estudo-C-Sharp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\net8.0\SimpleCSharpConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT Projetos\Estudo-C-Sharp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\net8.0\SimpleCSharpConsoleApp.AssemblyInfoInputs.cache
+D:\GIT Projetos\Estudo-C-Sharp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\net8.0\SimpleCSharpConsoleApp.AssemblyInfo.cs
+D:\GIT Projetos\Estudo-C-Sharp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\net8.0\SimpleCSharpConsoleApp.csproj.CoreCompileInputs.cache
+D:\GIT Projetos\Estudo-C-Sharp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\net8.0\SimpleCSharpConsoleApp.sourcelink.json
+D:\GIT Projetos\Estudo-C-Sharp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\net8.0\SimpleCSharpConsoleApp.dll
+D:\GIT Projetos\Estudo-C-Sharp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\net8.0\refint\SimpleCSharpConsoleApp.dll
+D:\GIT Projetos\Estudo-C-Sharp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\net8.0\SimpleCSharpConsoleApp.pdb
+D:\GIT Projetos\Estudo-C-Sharp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\net8.0\SimpleCSharpConsoleApp.genruntimeconfig.cache
+D:\GIT Projetos\Estudo-C-Sharp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\net8.0\ref\SimpleCSharpConsoleApp.dll

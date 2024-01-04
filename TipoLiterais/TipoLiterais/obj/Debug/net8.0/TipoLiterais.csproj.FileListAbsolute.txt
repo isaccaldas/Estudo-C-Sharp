@@ -1,0 +1,15 @@
+D:\GIT Projetos\Estudo-C-Sharp\TipoLiterais\TipoLiterais\bin\Debug\net8.0\TipoLiterais.exe
+D:\GIT Projetos\Estudo-C-Sharp\TipoLiterais\TipoLiterais\bin\Debug\net8.0\TipoLiterais.deps.json
+D:\GIT Projetos\Estudo-C-Sharp\TipoLiterais\TipoLiterais\bin\Debug\net8.0\TipoLiterais.runtimeconfig.json
+D:\GIT Projetos\Estudo-C-Sharp\TipoLiterais\TipoLiterais\bin\Debug\net8.0\TipoLiterais.dll
+D:\GIT Projetos\Estudo-C-Sharp\TipoLiterais\TipoLiterais\bin\Debug\net8.0\TipoLiterais.pdb
+D:\GIT Projetos\Estudo-C-Sharp\TipoLiterais\TipoLiterais\obj\Debug\net8.0\TipoLiterais.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT Projetos\Estudo-C-Sharp\TipoLiterais\TipoLiterais\obj\Debug\net8.0\TipoLiterais.AssemblyInfoInputs.cache
+D:\GIT Projetos\Estudo-C-Sharp\TipoLiterais\TipoLiterais\obj\Debug\net8.0\TipoLiterais.AssemblyInfo.cs
+D:\GIT Projetos\Estudo-C-Sharp\TipoLiterais\TipoLiterais\obj\Debug\net8.0\TipoLiterais.csproj.CoreCompileInputs.cache
+D:\GIT Projetos\Estudo-C-Sharp\TipoLiterais\TipoLiterais\obj\Debug\net8.0\TipoLiterais.sourcelink.json
+D:\GIT Projetos\Estudo-C-Sharp\TipoLiterais\TipoLiterais\obj\Debug\net8.0\TipoLiterais.dll
+D:\GIT Projetos\Estudo-C-Sharp\TipoLiterais\TipoLiterais\obj\Debug\net8.0\refint\TipoLiterais.dll
+D:\GIT Projetos\Estudo-C-Sharp\TipoLiterais\TipoLiterais\obj\Debug\net8.0\TipoLiterais.pdb
+D:\GIT Projetos\Estudo-C-Sharp\TipoLiterais\TipoLiterais\obj\Debug\net8.0\TipoLiterais.genruntimeconfig.cache
+D:\GIT Projetos\Estudo-C-Sharp\TipoLiterais\TipoLiterais\obj\Debug\net8.0\ref\TipoLiterais.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Classificaca Estudates/1.0.0": {
+        "runtime": {
+          "Classificaca Estudates.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Classificaca Estudates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

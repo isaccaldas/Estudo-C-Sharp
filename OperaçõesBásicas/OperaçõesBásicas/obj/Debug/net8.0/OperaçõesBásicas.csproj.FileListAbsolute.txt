@@ -1,0 +1,15 @@
+D:\GIT Projetos\Estudo-C-Sharp\OperaçõesBásicas\OperaçõesBásicas\obj\Debug\net8.0\OperaçõesBásicas.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT Projetos\Estudo-C-Sharp\OperaçõesBásicas\OperaçõesBásicas\obj\Debug\net8.0\OperaçõesBásicas.AssemblyInfoInputs.cache
+D:\GIT Projetos\Estudo-C-Sharp\OperaçõesBásicas\OperaçõesBásicas\obj\Debug\net8.0\OperaçõesBásicas.AssemblyInfo.cs
+D:\GIT Projetos\Estudo-C-Sharp\OperaçõesBásicas\OperaçõesBásicas\obj\Debug\net8.0\OperaçõesBásicas.csproj.CoreCompileInputs.cache
+D:\GIT Projetos\Estudo-C-Sharp\OperaçõesBásicas\OperaçõesBásicas\obj\Debug\net8.0\OperaçõesBásicas.sourcelink.json
+D:\GIT Projetos\Estudo-C-Sharp\OperaçõesBásicas\OperaçõesBásicas\bin\Debug\net8.0\OperaçõesBásicas.exe
+D:\GIT Projetos\Estudo-C-Sharp\OperaçõesBásicas\OperaçõesBásicas\bin\Debug\net8.0\OperaçõesBásicas.deps.json
+D:\GIT Projetos\Estudo-C-Sharp\OperaçõesBásicas\OperaçõesBásicas\bin\Debug\net8.0\OperaçõesBásicas.runtimeconfig.json
+D:\GIT Projetos\Estudo-C-Sharp\OperaçõesBásicas\OperaçõesBásicas\bin\Debug\net8.0\OperaçõesBásicas.dll
+D:\GIT Projetos\Estudo-C-Sharp\OperaçõesBásicas\OperaçõesBásicas\bin\Debug\net8.0\OperaçõesBásicas.pdb
+D:\GIT Projetos\Estudo-C-Sharp\OperaçõesBásicas\OperaçõesBásicas\obj\Debug\net8.0\OperaçõesBásicas.dll
+D:\GIT Projetos\Estudo-C-Sharp\OperaçõesBásicas\OperaçõesBásicas\obj\Debug\net8.0\refint\OperaçõesBásicas.dll
+D:\GIT Projetos\Estudo-C-Sharp\OperaçõesBásicas\OperaçõesBásicas\obj\Debug\net8.0\OperaçõesBásicas.pdb
+D:\GIT Projetos\Estudo-C-Sharp\OperaçõesBásicas\OperaçõesBásicas\obj\Debug\net8.0\OperaçõesBásicas.genruntimeconfig.cache
+D:\GIT Projetos\Estudo-C-Sharp\OperaçõesBásicas\OperaçõesBásicas\obj\Debug\net8.0\ref\OperaçõesBásicas.dll

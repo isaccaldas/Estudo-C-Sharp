@@ -1,0 +1,15 @@
+D:\GIT Projetos\Estudo-C-Sharp\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.exe
+D:\GIT Projetos\Estudo-C-Sharp\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.deps.json
+D:\GIT Projetos\Estudo-C-Sharp\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.runtimeconfig.json
+D:\GIT Projetos\Estudo-C-Sharp\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.dll
+D:\GIT Projetos\Estudo-C-Sharp\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.pdb
+D:\GIT Projetos\Estudo-C-Sharp\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT Projetos\Estudo-C-Sharp\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.AssemblyInfoInputs.cache
+D:\GIT Projetos\Estudo-C-Sharp\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.AssemblyInfo.cs
+D:\GIT Projetos\Estudo-C-Sharp\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.csproj.CoreCompileInputs.cache
+D:\GIT Projetos\Estudo-C-Sharp\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.sourcelink.json
+D:\GIT Projetos\Estudo-C-Sharp\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.dll
+D:\GIT Projetos\Estudo-C-Sharp\Variaveis\Variaveis\obj\Debug\net8.0\refint\Variaveis.dll
+D:\GIT Projetos\Estudo-C-Sharp\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.pdb
+D:\GIT Projetos\Estudo-C-Sharp\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.genruntimeconfig.cache
+D:\GIT Projetos\Estudo-C-Sharp\Variaveis\Variaveis\obj\Debug\net8.0\ref\Variaveis.dll
