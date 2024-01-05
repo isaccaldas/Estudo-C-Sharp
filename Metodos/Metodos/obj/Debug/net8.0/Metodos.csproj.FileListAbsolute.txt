@@ -1,0 +1,15 @@
+D:\GIT Projetos\Estudo-C-Sharp\Metodos\Metodos\obj\Debug\net8.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT Projetos\Estudo-C-Sharp\Metodos\Metodos\obj\Debug\net8.0\Metodos.AssemblyInfoInputs.cache
+D:\GIT Projetos\Estudo-C-Sharp\Metodos\Metodos\obj\Debug\net8.0\Metodos.AssemblyInfo.cs
+D:\GIT Projetos\Estudo-C-Sharp\Metodos\Metodos\obj\Debug\net8.0\Metodos.csproj.CoreCompileInputs.cache
+D:\GIT Projetos\Estudo-C-Sharp\Metodos\Metodos\obj\Debug\net8.0\Metodos.sourcelink.json
+D:\GIT Projetos\Estudo-C-Sharp\Metodos\Metodos\bin\Debug\net8.0\Metodos.exe
+D:\GIT Projetos\Estudo-C-Sharp\Metodos\Metodos\bin\Debug\net8.0\Metodos.deps.json
+D:\GIT Projetos\Estudo-C-Sharp\Metodos\Metodos\bin\Debug\net8.0\Metodos.runtimeconfig.json
+D:\GIT Projetos\Estudo-C-Sharp\Metodos\Metodos\bin\Debug\net8.0\Metodos.dll
+D:\GIT Projetos\Estudo-C-Sharp\Metodos\Metodos\bin\Debug\net8.0\Metodos.pdb
+D:\GIT Projetos\Estudo-C-Sharp\Metodos\Metodos\obj\Debug\net8.0\Metodos.dll
+D:\GIT Projetos\Estudo-C-Sharp\Metodos\Metodos\obj\Debug\net8.0\refint\Metodos.dll
+D:\GIT Projetos\Estudo-C-Sharp\Metodos\Metodos\obj\Debug\net8.0\Metodos.pdb
+D:\GIT Projetos\Estudo-C-Sharp\Metodos\Metodos\obj\Debug\net8.0\Metodos.genruntimeconfig.cache
+D:\GIT Projetos\Estudo-C-Sharp\Metodos\Metodos\obj\Debug\net8.0\ref\Metodos.dll

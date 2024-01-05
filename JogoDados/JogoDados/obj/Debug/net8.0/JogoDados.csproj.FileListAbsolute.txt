@@ -1,0 +1,15 @@
+D:\GIT Projetos\Estudo-C-Sharp\JogoDados\JogoDados\bin\Debug\net8.0\JogoDados.exe
+D:\GIT Projetos\Estudo-C-Sharp\JogoDados\JogoDados\bin\Debug\net8.0\JogoDados.deps.json
+D:\GIT Projetos\Estudo-C-Sharp\JogoDados\JogoDados\bin\Debug\net8.0\JogoDados.runtimeconfig.json
+D:\GIT Projetos\Estudo-C-Sharp\JogoDados\JogoDados\bin\Debug\net8.0\JogoDados.dll
+D:\GIT Projetos\Estudo-C-Sharp\JogoDados\JogoDados\bin\Debug\net8.0\JogoDados.pdb
+D:\GIT Projetos\Estudo-C-Sharp\JogoDados\JogoDados\obj\Debug\net8.0\JogoDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT Projetos\Estudo-C-Sharp\JogoDados\JogoDados\obj\Debug\net8.0\JogoDados.AssemblyInfoInputs.cache
+D:\GIT Projetos\Estudo-C-Sharp\JogoDados\JogoDados\obj\Debug\net8.0\JogoDados.AssemblyInfo.cs
+D:\GIT Projetos\Estudo-C-Sharp\JogoDados\JogoDados\obj\Debug\net8.0\JogoDados.csproj.CoreCompileInputs.cache
+D:\GIT Projetos\Estudo-C-Sharp\JogoDados\JogoDados\obj\Debug\net8.0\JogoDados.sourcelink.json
+D:\GIT Projetos\Estudo-C-Sharp\JogoDados\JogoDados\obj\Debug\net8.0\JogoDados.dll
+D:\GIT Projetos\Estudo-C-Sharp\JogoDados\JogoDados\obj\Debug\net8.0\refint\JogoDados.dll
+D:\GIT Projetos\Estudo-C-Sharp\JogoDados\JogoDados\obj\Debug\net8.0\JogoDados.pdb
+D:\GIT Projetos\Estudo-C-Sharp\JogoDados\JogoDados\obj\Debug\net8.0\JogoDados.genruntimeconfig.cache
+D:\GIT Projetos\Estudo-C-Sharp\JogoDados\JogoDados\obj\Debug\net8.0\ref\JogoDados.dll
