@@ -1,0 +1,15 @@
+D:\GIT Projetos\Estudo-C-Sharp\EstruturaCondicao\EstruturaCondicao\bin\Debug\net8.0\EstruturaCondicao.exe
+D:\GIT Projetos\Estudo-C-Sharp\EstruturaCondicao\EstruturaCondicao\bin\Debug\net8.0\EstruturaCondicao.deps.json
+D:\GIT Projetos\Estudo-C-Sharp\EstruturaCondicao\EstruturaCondicao\bin\Debug\net8.0\EstruturaCondicao.runtimeconfig.json
+D:\GIT Projetos\Estudo-C-Sharp\EstruturaCondicao\EstruturaCondicao\bin\Debug\net8.0\EstruturaCondicao.dll
+D:\GIT Projetos\Estudo-C-Sharp\EstruturaCondicao\EstruturaCondicao\bin\Debug\net8.0\EstruturaCondicao.pdb
+D:\GIT Projetos\Estudo-C-Sharp\EstruturaCondicao\EstruturaCondicao\obj\Debug\net8.0\EstruturaCondicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT Projetos\Estudo-C-Sharp\EstruturaCondicao\EstruturaCondicao\obj\Debug\net8.0\EstruturaCondicao.AssemblyInfoInputs.cache
+D:\GIT Projetos\Estudo-C-Sharp\EstruturaCondicao\EstruturaCondicao\obj\Debug\net8.0\EstruturaCondicao.AssemblyInfo.cs
+D:\GIT Projetos\Estudo-C-Sharp\EstruturaCondicao\EstruturaCondicao\obj\Debug\net8.0\EstruturaCondicao.csproj.CoreCompileInputs.cache
+D:\GIT Projetos\Estudo-C-Sharp\EstruturaCondicao\EstruturaCondicao\obj\Debug\net8.0\EstruturaCondicao.sourcelink.json
+D:\GIT Projetos\Estudo-C-Sharp\EstruturaCondicao\EstruturaCondicao\obj\Debug\net8.0\EstruturaCondicao.dll
+D:\GIT Projetos\Estudo-C-Sharp\EstruturaCondicao\EstruturaCondicao\obj\Debug\net8.0\refint\EstruturaCondicao.dll
+D:\GIT Projetos\Estudo-C-Sharp\EstruturaCondicao\EstruturaCondicao\obj\Debug\net8.0\EstruturaCondicao.pdb
+D:\GIT Projetos\Estudo-C-Sharp\EstruturaCondicao\EstruturaCondicao\obj\Debug\net8.0\EstruturaCondicao.genruntimeconfig.cache
+D:\GIT Projetos\Estudo-C-Sharp\EstruturaCondicao\EstruturaCondicao\obj\Debug\net8.0\ref\EstruturaCondicao.dll

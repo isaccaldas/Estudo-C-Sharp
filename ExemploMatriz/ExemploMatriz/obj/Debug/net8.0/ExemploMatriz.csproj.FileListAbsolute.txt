@@ -1,0 +1,15 @@
+D:\GIT Projetos\Estudo-C-Sharp\ExemploMatriz\ExemploMatriz\bin\Debug\net8.0\ExemploMatriz.exe
+D:\GIT Projetos\Estudo-C-Sharp\ExemploMatriz\ExemploMatriz\bin\Debug\net8.0\ExemploMatriz.deps.json
+D:\GIT Projetos\Estudo-C-Sharp\ExemploMatriz\ExemploMatriz\bin\Debug\net8.0\ExemploMatriz.runtimeconfig.json
+D:\GIT Projetos\Estudo-C-Sharp\ExemploMatriz\ExemploMatriz\bin\Debug\net8.0\ExemploMatriz.dll
+D:\GIT Projetos\Estudo-C-Sharp\ExemploMatriz\ExemploMatriz\bin\Debug\net8.0\ExemploMatriz.pdb
+D:\GIT Projetos\Estudo-C-Sharp\ExemploMatriz\ExemploMatriz\obj\Debug\net8.0\ExemploMatriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT Projetos\Estudo-C-Sharp\ExemploMatriz\ExemploMatriz\obj\Debug\net8.0\ExemploMatriz.AssemblyInfoInputs.cache
+D:\GIT Projetos\Estudo-C-Sharp\ExemploMatriz\ExemploMatriz\obj\Debug\net8.0\ExemploMatriz.AssemblyInfo.cs
+D:\GIT Projetos\Estudo-C-Sharp\ExemploMatriz\ExemploMatriz\obj\Debug\net8.0\ExemploMatriz.csproj.CoreCompileInputs.cache
+D:\GIT Projetos\Estudo-C-Sharp\ExemploMatriz\ExemploMatriz\obj\Debug\net8.0\ExemploMatriz.sourcelink.json
+D:\GIT Projetos\Estudo-C-Sharp\ExemploMatriz\ExemploMatriz\obj\Debug\net8.0\ExemploMatriz.dll
+D:\GIT Projetos\Estudo-C-Sharp\ExemploMatriz\ExemploMatriz\obj\Debug\net8.0\refint\ExemploMatriz.dll
+D:\GIT Projetos\Estudo-C-Sharp\ExemploMatriz\ExemploMatriz\obj\Debug\net8.0\ExemploMatriz.pdb
+D:\GIT Projetos\Estudo-C-Sharp\ExemploMatriz\ExemploMatriz\obj\Debug\net8.0\ExemploMatriz.genruntimeconfig.cache
+D:\GIT Projetos\Estudo-C-Sharp\ExemploMatriz\ExemploMatriz\obj\Debug\net8.0\ref\ExemploMatriz.dll

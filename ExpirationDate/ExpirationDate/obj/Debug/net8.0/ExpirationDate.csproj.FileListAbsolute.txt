@@ -1,0 +1,15 @@
+D:\GIT Projetos\Estudo-C-Sharp\ExpirationDate\ExpirationDate\bin\Debug\net8.0\ExpirationDate.exe
+D:\GIT Projetos\Estudo-C-Sharp\ExpirationDate\ExpirationDate\bin\Debug\net8.0\ExpirationDate.deps.json
+D:\GIT Projetos\Estudo-C-Sharp\ExpirationDate\ExpirationDate\bin\Debug\net8.0\ExpirationDate.runtimeconfig.json
+D:\GIT Projetos\Estudo-C-Sharp\ExpirationDate\ExpirationDate\bin\Debug\net8.0\ExpirationDate.dll
+D:\GIT Projetos\Estudo-C-Sharp\ExpirationDate\ExpirationDate\bin\Debug\net8.0\ExpirationDate.pdb
+D:\GIT Projetos\Estudo-C-Sharp\ExpirationDate\ExpirationDate\obj\Debug\net8.0\ExpirationDate.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT Projetos\Estudo-C-Sharp\ExpirationDate\ExpirationDate\obj\Debug\net8.0\ExpirationDate.AssemblyInfoInputs.cache
+D:\GIT Projetos\Estudo-C-Sharp\ExpirationDate\ExpirationDate\obj\Debug\net8.0\ExpirationDate.AssemblyInfo.cs
+D:\GIT Projetos\Estudo-C-Sharp\ExpirationDate\ExpirationDate\obj\Debug\net8.0\ExpirationDate.csproj.CoreCompileInputs.cache
+D:\GIT Projetos\Estudo-C-Sharp\ExpirationDate\ExpirationDate\obj\Debug\net8.0\ExpirationDate.sourcelink.json
+D:\GIT Projetos\Estudo-C-Sharp\ExpirationDate\ExpirationDate\obj\Debug\net8.0\ExpirationDate.dll
+D:\GIT Projetos\Estudo-C-Sharp\ExpirationDate\ExpirationDate\obj\Debug\net8.0\refint\ExpirationDate.dll
+D:\GIT Projetos\Estudo-C-Sharp\ExpirationDate\ExpirationDate\obj\Debug\net8.0\ExpirationDate.pdb
+D:\GIT Projetos\Estudo-C-Sharp\ExpirationDate\ExpirationDate\obj\Debug\net8.0\ExpirationDate.genruntimeconfig.cache
+D:\GIT Projetos\Estudo-C-Sharp\ExpirationDate\ExpirationDate\obj\Debug\net8.0\ref\ExpirationDate.dll
